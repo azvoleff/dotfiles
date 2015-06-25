@@ -1,6 +1,8 @@
 " ----------------------------------------------------------------------------
 "   Plug
 " ----------------------------------------------------------------------------
+"
+"  https://github.com/captbaritone/dotfiles/blob/master/vim/plug.vim
 
 " Load vim-plug
 if empty(glob("~/.vim/autoload/plug.vim"))
