@@ -26,12 +26,12 @@ Plug 'edsono/vim-matchit', { 'for': ['html', 'xml'] }
 
 Plug 'ervandew/supertab'
 Plug 'scrooloose/nerdtree'
-Plug 'scrooloose/syntastic', { 'for': ['php', 'python', 'javascript', 'css'] }
+"Plug 'scrooloose/syntastic', { 'for': ['php', 'python', 'javascript', 'css'] }
 Plug 'bling/vim-airline'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-sleuth'
 Plug 'christoomey/vim-tmux-navigator'
-Plug 'vim-scripts/pythonhelper'
+"Plug 'vim-scripts/pythonhelper'
 Plug 'mbbill/undotree'
 Plug 'jalvesaq/Nvim-R'
 Plug 'vim-scripts/ShowMarks'
