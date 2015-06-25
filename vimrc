@@ -1,12 +1,12 @@
 set t_Co=256
 
-call pathogen#infect()
 syn on
 filetype indent plugin on
 set spell
 set autochdir
-execute pathogen#infect()
-execute pathogen#helptags()
+
+" Install the Plug plugin manager
+source $HOME/.vim/plug.vim
 
 " Make the sign column darker to match the rest of the colorscheme
 highlight SignColumn ctermbg=11
