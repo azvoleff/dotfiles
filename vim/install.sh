@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# httpos://github.com/captbaritone/dotfiles/blob/master/vim/install.sh
+# https://github.com/captbaritone/dotfiles/blob/master/vim/install.sh
 
 echo "Updating/cleaning Vim plugins:"
 
