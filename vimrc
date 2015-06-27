@@ -122,6 +122,7 @@ set wildmode=list:longest,full
 
 " have the mouse enabled all the time:
 set mouse=a
+set ttymouse=xterm2
 
 " * Text Formatting -- General
 " display line numbers along left side of window
