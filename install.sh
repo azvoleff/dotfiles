@@ -7,6 +7,7 @@ dotfilespath="$HOME/dotfiles"
 
 FILES=(\
     bashrc \
+    bash_profile \
     gitconfig \
     tmux.conf \
     Rprofile \
