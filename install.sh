@@ -66,4 +66,9 @@ find . -mindepth 2 -name 'install.sh' | while read FILE; do
     $FILE
 done
 
+echo "Linking .vim and .vimrc to nvim."
+ln -s ~/.nvim ~/.vim
+ln -s ~/.nvimrc ~/.vimrc
+
 echo "Installation complete!"
+
