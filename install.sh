@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 
-
-# https://github.com/captbaritone/dotfiles/blob/master/install.sh
-
 dotfilespath="$HOME/dotfiles"
 
 FILES=(\
