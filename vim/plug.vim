@@ -31,13 +31,14 @@ Plug 'bling/vim-airline'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-sleuth'
 Plug 'christoomey/vim-tmux-navigator'
-"Plug 'vim-scripts/pythonhelper'
+Plug 'vim-scripts/pythonhelper'
 Plug 'mbbill/undotree'
 Plug 'jalvesaq/Nvim-R'
 Plug 'vim-scripts/ShowMarks'
 Plug 'majutsushi/tagbar'
 Plug 'tpope/vim-fugitive'
 Plug 'airblade/vim-gitgutter'
+Plug 'ivanov/vim-ipython'
 
 " Other plugins require curl
 if executable("curl")
