@@ -1,10 +1,10 @@
 #!/bin/bash
 
-sudo add-apt-repository ppa:neovim-ppa/unstable
+sudo add-apt-repository -y ppa:neovim-ppa/unstable
 sudo apt-get update
-sudo apt-get install neovim
+sudo apt-get install -y neovim
 
-sudo apt-get install python-dev python-pip python3-dev python3-pip
+sudo apt-get install -y python-dev python-pip python3-dev python3-pip
 
 sudo update-alternatives --install /usr/bin/vi vi /usr/bin/nvim 60
 sudo update-alternatives --config vi
