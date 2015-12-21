@@ -45,5 +45,3 @@ case "$TERM" in
 esac
 
 export TZ="/usr/share/zoneinfo/America/New_York"
-
-alias vim='~/neovim/bin/nvim'
